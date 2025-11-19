@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# React build
+Client/build
+
+# Backend build
+Server/dist
+
+# Env files
+*.env
+
+# VSCode settings
+.vscode/
